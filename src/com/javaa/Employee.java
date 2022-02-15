@@ -8,7 +8,7 @@ public class Employee {
 				double empcheck = Math.floor(Math.random() * 10)% 2;
 				
 				if (empcheck == IS_FULL_TIME)
-					System.out.println("Employee is Present");
+					System.out.println("Employee is Present ");
 				else
 					System.out.println("Employee is Absent");
 				
